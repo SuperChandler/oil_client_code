@@ -5,4 +5,7 @@ package com.machine.filling.base;
  */
 
 public class BaseActivity {
+
+
+
 }
